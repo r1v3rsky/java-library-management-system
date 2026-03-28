@@ -1,0 +1,41 @@
+
+
+------ User Information for 1001 ------
+Name: River Phone: 05551234567
+Faculty: Muhendislik Department: Bilgisayar Muh Grade: 4th
+
+------ User Information for 2001 ------
+Name: Prof. Ahmet Hoca Phone: 05559876543
+Faculty: Fen Edebiyat Department: Matematik
+
+------ User Information for 3001 ------
+Name: Mehmet Bey Phone: 05051112233
+Occupation: Muhendis
+River successfully borrowed! Nutuk
+
+
+------ Item Information for 101 ------
+ID: 101 Name: Nutuk Status: Borrowed Borrowed Date: 29/03/2026 Borrowed by: River
+Author: Mustafa Kemal Ataturk Genre: Tarih
+
+------ Item Information for 201 ------
+ID: 201 Name: Bilim ve Teknik Status: Available
+Publisher: Tubitak Category: Bilim
+
+------ Item Information for 301 ------
+ID: 301 Name: Inception Status: Available
+Director: Christopher Nolan Category: Sci-Fi Runtime: 148 min
+River successfully returned Nutuk
+
+
+------ User Information for 1001 ------
+Name: River Phone: 05551234567
+Faculty: Muhendislik Department: Bilgisayar Muh Grade: 4th
+
+------ User Information for 2001 ------
+Name: Prof. Ahmet Hoca Phone: 05559876543
+Faculty: Fen Edebiyat Department: Matematik
+
+------ User Information for 3001 ------
+Name: Mehmet Bey Phone: 05051112233
+Occupation: Muhendis
