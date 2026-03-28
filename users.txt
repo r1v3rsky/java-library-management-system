@@ -1,0 +1,3 @@
+S,River,1001,05551234567,Bilgisayar Muh,Muhendislik,4
+A,Ahmet Hoca,2001,05559876543,Matematik,Fen Edebiyat,Prof.
+G,Mehmet Bey,3001,05051112233,Muhendis

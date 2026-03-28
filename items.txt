@@ -1,0 +1,3 @@
+B,101,Nutuk,Mustafa Kemal Ataturk,Tarih,Prentice Hall
+M,201,Bilim ve Teknik,Tubitak,Bilim,Popular Science
+D,301,Inception,Christopher Nolan,Sci-Fi,148 min,Movie
